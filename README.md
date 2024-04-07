@@ -2,7 +2,7 @@
 
 ## Ahora los ejercicios que requerían input tendrán el siguiente formato:
 
-![Captura](https://github.com/Kokechacho/NotebooksValoracion/assets/67198515/357aefdd-46c7-4893-a9af-9521e6a734cc)
+![Captura](https://github.com/Kokechacho/NotebooksValoracion/assets/67198515/6d6d6140-bc80-4d09-902c-09eb2daa4c53)
 
 ## ❗ Se deberá elegir un activo antes de ejecutar la celda como:
 
