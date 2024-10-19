@@ -8,9 +8,6 @@ Welcome to the Financial Derivatives Valuation repository! This project contains
 - [Notebooks Overview](#notebooks-overview)
 - [Data Files](#data-files)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Files Included
 
